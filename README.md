@@ -6,6 +6,10 @@ temporários na cidade de Nova York a partir do dataset.
 </p>
 <hr>
 
+## 📊 Resultados Atuais
+- Modelo atual reduz erros em **49%** vs. precificação humana média
+- **Próximos passos**: Ver [notebook](#) para detalhes das melhorias planejadas
+
 ## 📈 Etapas do Projeto
 
 | **Tarefas** | **Status** |
