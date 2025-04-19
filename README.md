@@ -7,7 +7,7 @@ temporários na cidade de Nova York a partir do dataset.
 <hr>
 
 ## 📊 Resultados Atuais
-- Modelo atual reduz erros em **49%** vs. precificação humana média
+- Modelo atual reduz erros em **50%** vs. precificação humana média
 - **Próximos passos**: Ver [notebook](#) para detalhes das melhorias planejadas
 
 ## 📈 Etapas do Projeto
@@ -85,7 +85,11 @@ print(f'O preço previsto para o imóvel é: {preco_previsto}')
 | **Ajuste do modelo ML**                 | Ajustar os parâmetros do modelo para melhorar a precisão foi um desafio. |
 ---
 
-
+## 🚧 Próximas Melhorias
+- [ ] Testar XGBoost (`pip install xgboost` quando necessário)
+- [ ] Feature Engineering: criar `distancia_pontos_turisticos`
+- [ ] Gráfico SHAP para explicar previsões
+---
 ## 📚 Referências
 
 | Tópicos | Descrição |
