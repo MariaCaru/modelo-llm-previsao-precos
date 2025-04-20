@@ -38,7 +38,7 @@ def main():
         print(f"• Tipo de Quarto: {inputs['room_type']}")
         print(f"• Preço Diário Previsto: ${preco:.2f}")
         
-        # Mostra métricas do modelo (opcional)
+        # Mostra métricas do modelo
         metadata = predictor.get_metadata()
         print(f"\nℹ️  Metadados do Modelo:")
         print(f"- Versão: {metadata['version']}")
