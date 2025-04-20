@@ -8,7 +8,7 @@
 ## 🌟 Visão Geral
 
 ### 📌 Sobre o Projeto
-Modelo de machine learning híbrido que combina:
+Modelo de machine learning que combina:
 - **Técnicas de NLP** para análise de descrições textuais
 - **Algoritmos de regressão** para dados estruturados
 - **Geolocalização implícita** através de padrões de bairros
